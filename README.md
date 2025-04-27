@@ -1,7 +1,7 @@
 ## 🤴 Olaaa !!! Me chamo Lucas Isamu 
 <br>
 
-- 🔭 Atualmente sou Universitario
+- 🔭 Atualmente sou universitário
 - 🌱 Estudando Java e C++
 ##
 
