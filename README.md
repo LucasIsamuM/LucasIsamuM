@@ -2,7 +2,7 @@
 <br>
 
 - 🔭 Atualmente sou universitário
-- 🌱 Estudando Java e C++
+- 🌱 Estudando Java e C#
 ##
 
 <div align="left">
