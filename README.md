@@ -1,4 +1,4 @@
-## 🤴 Olaaa !!! Me chamo Lucas Isamu 
+
 <br>
 
 - 🔭 Atualmente sou universitário
